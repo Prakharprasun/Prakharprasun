@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prakhar Prasun</h1>
+<h1 align="center">You expected Prakhar Prasun but, It was me, DIO!</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharprasun" alt="prakharprasun" /></a> </p>
 
-- 🌱 I’m currently trying to get better at **Machine Learning and Data Science as well as Competitive Programming**
+- I am a student at BITS and I’m currently trying to get better at **Machine Learning, Data Science and Competitive Programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
