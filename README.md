@@ -1,4 +1,4 @@
-<h1 align="center">You expected Prakhar Prasun but, It was me, DIO!</h1>
+<h1 align="center">You expected Prakhar but, It was me, DIO!</h1>
 <h3 align="center">A Machine Learning enthusiast from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakharprasun" alt="prakharprasun" /></a> </p>
