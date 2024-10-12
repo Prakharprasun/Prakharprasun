@@ -1,10 +1,10 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)</br>
 [![](https://visitcount.itsvg.in/api?id=Prakharprasun&icon=5&color=0)](https://visitcount.itsvg.in)
 
-# You expected Prakhar Prasun but,
+# 🧛 You expected Prakhar Prasun but,
 It was me, DIO!
 
-# Connect with me:
+# 🔗 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/prakhar-prasun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakhar-prasun" height="30" width="40" /></a>
 <a href="https://kaggle.com/prakharprasun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prakharprasun" height="30" width="40" /></a>
