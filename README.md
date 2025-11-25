@@ -42,17 +42,6 @@ I'm an Engineering student at BITS Pilani passionate about machine learning rese
 - **Meta Hacker Cup 2025**: Advanced to Round 2
 - **ICPC 2025**: Team Captain
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Prakharprasun&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prakharprasun&theme=dracula&hide_border=false" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prakharprasun&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</p>
-
 ## 🎯 Current Focus
 
 - Contributing to open-source Machine Learning frameworks
