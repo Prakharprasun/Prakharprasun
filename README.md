@@ -1,15 +1,9 @@
 <h1 align="center">Hi there, I'm Prakhar Prasun 👋</h1>
 <h3 align="center">ML Research & Backend Engineering | Open Source Contributor</h3>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
 ## 🚀 About Me
 
 I'm an Engineering student at BITS Pilani passionate about machine learning research, backend systems, and open-source development. Currently contributing to computational research projects and Open Source.
-
-## 📫 Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/prakhar-prasun" target="blank">
